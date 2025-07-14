@@ -1,4 +1,3 @@
-
 import os
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from telegram import Update, Bot
@@ -27,10 +26,8 @@ def run_bot():
 
 if __name__ == "__main__":
     import threading
-
     threading.Thread(
-        target=lambda: app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
-    ).start()
+        target=lambda: app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080))).start()
 
     run_bot()
     
