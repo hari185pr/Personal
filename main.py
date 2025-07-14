@@ -1,4 +1,5 @@
 import os
+import threading
 from flask import Flask
 from telegram import Update, Bot
 from telegram.ext import CommandHandler, ApplicationBuilder, ContextTypes
@@ -10,6 +11,7 @@ def keep_alive():
     return "Bot is running!"
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
+print(f"Retrived BOT_TOKEN:{bool(BOT_TOKEN)}")
 bot = Bot(token=BOT_TOKEN)
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -19,6 +21,7 @@ async def roll(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("🎲 You rolled a random waifu!")
 
 def run_bot():
+    print("starting bot..")
     appbuilder = ApplicationBuilder().token(BOT_TOKEN).build()
     appbuilder.add_handler(CommandHandler("start", start))
     appbuilder.add_handler(CommandHandler("roll", roll))
