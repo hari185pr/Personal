@@ -28,6 +28,6 @@ def run_bot():
     appbuilder.run_polling()
 
 if __name__ == "__main__":
-    import threading
+    print("launching server and bot")
     threading.Thread(target=lambda: app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))).start()
     run_bot()
