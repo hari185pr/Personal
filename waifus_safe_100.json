@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "name": "Waifu Test 1",
+    "image_url": "https://i.imgur.com/Uw6HHgZ.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 2,
+    "name": "Waifu Test 2",
+    "image_url": "https://i.imgur.com/R8kzSEf.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 3,
+    "name": "Waifu Test 3",
+    "image_url": "https://i.imgur.com/9Y4J5Q9.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 4,
+    "name": "Waifu Test 4",
+    "image_url": "https://i.imgur.com/l9tN7Gt.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 5,
+    "name": "Waifu Test 5",
+    "image_url": "https://i.imgur.com/eHsvVfU.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 6,
+    "name": "Waifu Test 6",
+    "image_url": "https://i.imgur.com/qbiN6sH.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 7,
+    "name": "Waifu Test 7",
+    "image_url": "https://i.imgur.com/Wz8ZPST.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 8,
+    "name": "Waifu Test 8",
+    "image_url": "https://i.imgur.com/cMFc69V.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 9,
+    "name": "Waifu Test 9",
+    "image_url": "https://i.imgur.com/BjIPFu4.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 10,
+    "name": "Waifu Test 10",
+    "image_url": "https://i.imgur.com/sQWZg8r.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 11,
+    "name": "Waifu Test 11",
+    "image_url": "https://i.imgur.com/kD4rMI1.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 12,
+    "name": "Waifu Test 12",
+    "image_url": "https://i.imgur.com/5Yd8OgB.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 13,
+    "name": "Waifu Test 13",
+    "image_url": "https://i.imgur.com/AhZWlQT.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 14,
+    "name": "Waifu Test 14",
+    "image_url": "https://i.imgur.com/OQzBfGr.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 15,
+    "name": "Waifu Test 15",
+    "image_url": "https://i.imgur.com/1AEtxjq.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 16,
+    "name": "Waifu Test 16",
+    "image_url": "https://i.imgur.com/vqvNxv3.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 17,
+    "name": "Waifu Test 17",
+    "image_url": "https://i.imgur.com/5AqK2hV.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 18,
+    "name": "Waifu Test 18",
+    "image_url": "https://i.imgur.com/zLEIvJ2.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 19,
+    "name": "Waifu Test 19",
+    "image_url": "https://i.imgur.com/dM1GUwG.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 20,
+    "name": "Waifu Test 20",
+    "image_url": "https://i.imgur.com/eLMZMH0.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 21,
+    "name": "Waifu Test 21",
+    "image_url": "https://i.imgur.com/HRSTxO9.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 22,
+    "name": "Waifu Test 22",
+    "image_url": "https://i.imgur.com/yU9x0CL.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 23,
+    "name": "Waifu Test 23",
+    "image_url": "https://i.imgur.com/xFJ0CtK.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 24,
+    "name": "Waifu Test 24",
+    "image_url": "https://i.imgur.com/3n2BkcC.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 25,
+    "name": "Waifu Test 25",
+    "image_url": "https://i.imgur.com/asXt3mj.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 26,
+    "name": "Waifu Test 26",
+    "image_url": "https://i.imgur.com/GYe6JUX.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 27,
+    "name": "Waifu Test 27",
+    "image_url": "https://i.imgur.com/VGmT6b7.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 28,
+    "name": "Waifu Test 28",
+    "image_url": "https://i.imgur.com/FWGZGJ6.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 29,
+    "name": "Waifu Test 29",
+    "image_url": "https://i.imgur.com/VZC2pPY.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 30,
+    "name": "Waifu Test 30",
+    "image_url": "https://i.imgur.com/zEfHgvm.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 31,
+    "name": "Waifu Test 31",
+    "image_url": "https://i.imgur.com/LbBFlT1.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 32,
+    "name": "Waifu Test 32",
+    "image_url": "https://i.imgur.com/KTPL2UR.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 33,
+    "name": "Waifu Test 33",
+    "image_url": "https://i.imgur.com/jIRkXw7.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 34,
+    "name": "Waifu Test 34",
+    "image_url": "https://i.imgur.com/mAVKnPQ.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 35,
+    "name": "Waifu Test 35",
+    "image_url": "https://i.imgur.com/IvL5Zib.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 36,
+    "name": "Waifu Test 36",
+    "image_url": "https://i.imgur.com/pLk9U7G.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 37,
+    "name": "Waifu Test 37",
+    "image_url": "https://i.imgur.com/Lf3YQGh.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 38,
+    "name": "Waifu Test 38",
+    "image_url": "https://i.imgur.com/F0F2q1N.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 39,
+    "name": "Waifu Test 39",
+    "image_url": "https://i.imgur.com/egb6F7F.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 40,
+    "name": "Waifu Test 40",
+    "image_url": "https://i.imgur.com/OwLvRKU.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 41,
+    "name": "Waifu Test 41",
+    "image_url": "https://i.imgur.com/OaEPvml.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 42,
+    "name": "Waifu Test 42",
+    "image_url": "https://i.imgur.com/MXkD1PS.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 43,
+    "name": "Waifu Test 43",
+    "image_url": "https://i.imgur.com/ka1WLvm.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 44,
+    "name": "Waifu Test 44",
+    "image_url": "https://i.imgur.com/5lGMIho.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 45,
+    "name": "Waifu Test 45",
+    "image_url": "https://i.imgur.com/NJD9yoS.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 46,
+    "name": "Waifu Test 46",
+    "image_url": "https://i.imgur.com/y5Ag8Di.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 47,
+    "name": "Waifu Test 47",
+    "image_url": "https://i.imgur.com/ABbzATf.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 48,
+    "name": "Waifu Test 48",
+    "image_url": "https://i.imgur.com/bi2uWgp.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 49,
+    "name": "Waifu Test 49",
+    "image_url": "https://i.imgur.com/a0nMNO6.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 50,
+    "name": "Waifu Test 50",
+    "image_url": "https://i.imgur.com/FyxINPd.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 51,
+    "name": "Waifu Test 51",
+    "image_url": "https://i.imgur.com/j7B2g6Y.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 52,
+    "name": "Waifu Test 52",
+    "image_url": "https://i.imgur.com/B5vZKCe.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 53,
+    "name": "Waifu Test 53",
+    "image_url": "https://i.imgur.com/rMe2xPf.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 54,
+    "name": "Waifu Test 54",
+    "image_url": "https://i.imgur.com/6qYeJKd.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 55,
+    "name": "Waifu Test 55",
+    "image_url": "https://i.imgur.com/bkuMKmw.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 56,
+    "name": "Waifu Test 56",
+    "image_url": "https://i.imgur.com/2qIfRaU.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 57,
+    "name": "Waifu Test 57",
+    "image_url": "https://i.imgur.com/sjScOFE.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 58,
+    "name": "Waifu Test 58",
+    "image_url": "https://i.imgur.com/TYlmnpz.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 59,
+    "name": "Waifu Test 59",
+    "image_url": "https://i.imgur.com/GcNTXNz.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 60,
+    "name": "Waifu Test 60",
+    "image_url": "https://i.imgur.com/6usNSIo.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 61,
+    "name": "Waifu Test 61",
+    "image_url": "https://i.imgur.com/yZjIg4K.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 62,
+    "name": "Waifu Test 62",
+    "image_url": "https://i.imgur.com/u0NEk5g.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 63,
+    "name": "Waifu Test 63",
+    "image_url": "https://i.imgur.com/CPDFaPA.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 64,
+    "name": "Waifu Test 64",
+    "image_url": "https://i.imgur.com/acXkCta.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 65,
+    "name": "Waifu Test 65",
+    "image_url": "https://i.imgur.com/glGqLSU.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 66,
+    "name": "Waifu Test 66",
+    "image_url": "https://i.imgur.com/O2Pt8xq.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 67,
+    "name": "Waifu Test 67",
+    "image_url": "https://i.imgur.com/KD6jEdF.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 68,
+    "name": "Waifu Test 68",
+    "image_url": "https://i.imgur.com/7xxtuYR.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 69,
+    "name": "Waifu Test 69",
+    "image_url": "https://i.imgur.com/zFtrls9.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 70,
+    "name": "Waifu Test 70",
+    "image_url": "https://i.imgur.com/I3D3FoK.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 71,
+    "name": "Waifu Test 71",
+    "image_url": "https://i.imgur.com/4I4AXE0.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 72,
+    "name": "Waifu Test 72",
+    "image_url": "https://i.imgur.com/kRt8kUN.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 73,
+    "name": "Waifu Test 73",
+    "image_url": "https://i.imgur.com/jT7ck8b.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 74,
+    "name": "Waifu Test 74",
+    "image_url": "https://i.imgur.com/7VEZpiX.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 75,
+    "name": "Waifu Test 75",
+    "image_url": "https://i.imgur.com/hh0BPHb.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 76,
+    "name": "Waifu Test 76",
+    "image_url": "https://i.imgur.com/y4kaFy0.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 77,
+    "name": "Waifu Test 77",
+    "image_url": "https://i.imgur.com/WCBWhJX.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 78,
+    "name": "Waifu Test 78",
+    "image_url": "https://i.imgur.com/Y6hwM9F.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 79,
+    "name": "Waifu Test 79",
+    "image_url": "https://i.imgur.com/yWtz0wW.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 80,
+    "name": "Waifu Test 80",
+    "image_url": "https://i.imgur.com/FDtBdp7.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 81,
+    "name": "Waifu Test 81",
+    "image_url": "https://i.imgur.com/PiSmfjK.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 82,
+    "name": "Waifu Test 82",
+    "image_url": "https://i.imgur.com/pP2aOYZ.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 83,
+    "name": "Waifu Test 83",
+    "image_url": "https://i.imgur.com/I6X5KeY.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 84,
+    "name": "Waifu Test 84",
+    "image_url": "https://i.imgur.com/mUYLYn6.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 85,
+    "name": "Waifu Test 85",
+    "image_url": "https://i.imgur.com/U3TXQFg.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 86,
+    "name": "Waifu Test 86",
+    "image_url": "https://i.imgur.com/5n8AbXb.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 87,
+    "name": "Waifu Test 87",
+    "image_url": "https://i.imgur.com/Oeh9Uaz.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 88,
+    "name": "Waifu Test 88",
+    "image_url": "https://i.imgur.com/sAk8eSC.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 89,
+    "name": "Waifu Test 89",
+    "image_url": "https://i.imgur.com/qU3DrFi.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 90,
+    "name": "Waifu Test 90",
+    "image_url": "https://i.imgur.com/DgN3IdF.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 91,
+    "name": "Waifu Test 91",
+    "image_url": "https://i.imgur.com/AJXcLWr.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 92,
+    "name": "Waifu Test 92",
+    "image_url": "https://i.imgur.com/w3TYj4O.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 93,
+    "name": "Waifu Test 93",
+    "image_url": "https://i.imgur.com/1dY72ls.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 94,
+    "name": "Waifu Test 94",
+    "image_url": "https://i.imgur.com/aAIXW7N.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 95,
+    "name": "Waifu Test 95",
+    "image_url": "https://i.imgur.com/U7YT0oe.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 96,
+    "name": "Waifu Test 96",
+    "image_url": "https://i.imgur.com/O8cgJdY.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 97,
+    "name": "Waifu Test 97",
+    "image_url": "https://i.imgur.com/y4Ix51f.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 98,
+    "name": "Waifu Test 98",
+    "image_url": "https://i.imgur.com/ihWS61u.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 99,
+    "name": "Waifu Test 99",
+    "image_url": "https://i.imgur.com/8FcImiZ.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 100,
+    "name": "Waifu Test 100",
+    "image_url": "https://i.imgur.com/2AWVuF1.jpg",
+    "rarity": "Rare"
+  },
+  {
+    "id": 101,
+    "name": "Waifu Test 101",
+    "image_url": "https://i.imgur.com/VCPDrpm.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 102,
+    "name": "Waifu Test 102",
+    "image_url": "https://i.imgur.com/1HzwT0O.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 103,
+    "name": "Waifu Test 103",
+    "image_url": "https://i.imgur.com/HRHQQD1.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 104,
+    "name": "Waifu Test 104",
+    "image_url": "https://i.imgur.com/E2UNFMA.jpg",
+    "rarity": "Common"
+  },
+  {
+    "id": 105,
+    "name": "Waifu Test 105",
+    "image_url": "https://i.imgur.com/ZPmyjc6.jpg",
+    "rarity": "Rare"
+  }
+]
